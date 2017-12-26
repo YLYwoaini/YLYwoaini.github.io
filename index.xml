@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>玉树临风的少年</title>
     <link>https://YLYwoaini.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 玉树临风的少年</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-SG</language>
     <lastBuildDate>Mon, 25 Dec 2017 22:20:46 +0800</lastBuildDate>
-    
-	<atom:link href="https://YLYwoaini.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://YLYwoaini.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
@@ -17,7 +15,7 @@
       <pubDate>Mon, 25 Dec 2017 22:20:46 +0800</pubDate>
       
       <guid>https://YLYwoaini.github.io/about/</guid>
-      <description>hsyc 韩思雨晨大傻子</description>
+      <description>韩思雨晨大傻子</description>
     </item>
     
   </channel>
